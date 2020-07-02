@@ -3,7 +3,7 @@ Repository to hold the project for the Performant Programming with Python Class
 
 To initialize the project, run `pip install virtualenv` in a terminal to make sure you have virtualenv installed. 
 
-Then, cd into the project's first "ClickerApplication" folder (the one before the ClickerApplication folder with the manage.py file).
+Then, cd into the project's first "SemesterProj" folder (the one before the SemesterProj folder with the manage.py file).
 
 ### Creating the Virtual Environment
 If you're using **Python 2.x**, to create the virtual environment "venv" you run, 
@@ -41,7 +41,7 @@ pip install Django
 ```
 
 ### Starting up the server
-Go inside the project directory, called "ClickerApplication". Inside you should see the *manage.py* file. 
+Go inside the project directory, called "SemesterProj". Inside you should see the *manage.py* file. 
 To start up the server, run
 ```
 python manage.py runserver
