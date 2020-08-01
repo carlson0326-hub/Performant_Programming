@@ -6,10 +6,16 @@ To initialize the project, run `pip install virtualenv` in a terminal to make su
 Then, cd into the project's first "SemesterProj" folder (the one before the SemesterProj folder with the manage.py file).
 
 # Purpose 
-The purpose of this project is to create web app solely for the University of Florida
-In the objective to allow professors to create questions and popup quiz for students during their
+The purpose of this project is to create web app solely design for the University of Florida
+The objective is to allow professors to create questions and popup quiz for students during their
 lecutres. It will mainly serve as a form of interactive learning to keep the student engage with 
 the course material.
+
+# Features
+1) Allow Administrators/Professor to register student to a class
+2) Allow students to signup for enrolled course for the semester
+3) Allow professor to create questions (essays/multiple choices)
+4) Analyze student votes
 
 ### Creating the Virtual Environment
 If you're using **Python 2.x**, to create the virtual environment "venv" you run, 
