@@ -66,7 +66,11 @@ Most development will be done in the "Quiz" application, so create views and mod
 # Developers
 ### Moise Jean:  
 BackEnd developer
-### Carlson A Joseph
-### Alejandro Alonso
-### Hannah E Mceachern
-### Andrew So
+### Carlson A Joseph:
+Project Manager
+### Alejandro Alonso:
+Front End developer
+### Hannah E Mceachern:
+Front End developer
+### Andrew So:
+Back End developer
