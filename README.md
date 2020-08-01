@@ -64,7 +64,7 @@ python manage.py runserver
 ### Development
 Most development will be done in the "Quiz" application, so create views and models here. 
 # Developers
-### Moise Jean
+### Moise Jean: ##### BackEnd developer
 ### Carlson A Joseph
 ### Alejandro Alonso
 ### Hannah E Mceachern
