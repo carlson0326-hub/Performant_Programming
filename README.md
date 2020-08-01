@@ -1,9 +1,5 @@
 # Gator Click
-Repository to hold the project for the Performant Programming with Python Class
-
-To initialize the project, run `pip install virtualenv` in a terminal to make sure you have virtualenv installed. 
-
-Then, cd into the project's first "SemesterProj" folder (the one before the SemesterProj folder with the manage.py file).
+Repository to hold the Gator Click project for the Performant Programming with Python Class
 
 # Purpose 
 The purpose of this project is to create web app solely design for the University of Florida
@@ -18,6 +14,10 @@ the course material.
 4) Analyze student votes
 
 # Deployment
+### Initializing 
+To initialize the project, run `pip install virtualenv` in a terminal to make sure you have virtualenv installed. 
+
+Then, cd into the project's first "SemesterProj" folder (the one before the SemesterProj folder with the manage.py file).
 
 ### Creating the Virtual Environment
 If you're using **Python 2.x**, to create the virtual environment "venv" you run, 
