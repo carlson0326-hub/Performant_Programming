@@ -17,6 +17,8 @@ the course material.
 3) Allow professor to create questions (essays/multiple choices)
 4) Analyze student votes
 
+# Deployment
+
 ### Creating the Virtual Environment
 If you're using **Python 2.x**, to create the virtual environment "venv" you run, 
 ```
@@ -61,3 +63,9 @@ python manage.py runserver
 
 ### Development
 Most development will be done in the "Quiz" application, so create views and models here. 
+# Developers
+### Moise Jean
+### Carlson A Joseph
+### Alejandro Alonso
+### Hannah E Mceachern
+### Andrew So
