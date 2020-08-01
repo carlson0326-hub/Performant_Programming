@@ -1,9 +1,15 @@
-# Performant_Programming
+# Gator Click
 Repository to hold the project for the Performant Programming with Python Class
 
 To initialize the project, run `pip install virtualenv` in a terminal to make sure you have virtualenv installed. 
 
 Then, cd into the project's first "SemesterProj" folder (the one before the SemesterProj folder with the manage.py file).
+
+# Purpose 
+The purpose of this project is to create web app solely for the University of Florida
+In the objective to allow professors to create questions and popup quiz for students during their
+lecutres. It will mainly serve as a form of interactive learning to keep the student engage with 
+the course material.
 
 ### Creating the Virtual Environment
 If you're using **Python 2.x**, to create the virtual environment "venv" you run, 
